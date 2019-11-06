@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="2263" started-at="2019-11-06T06:27:13Z" finished-at="2019-11-06T06:27:15Z">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="2263" started-at="2019-11-06T06:27:13Z" finished-at="2019-11-06T06:27:15Z">
+      <class name="restApitests.ApiTests">
+        <test-method status="PASS" signature="init()[pri:0, instance:restApitests.ApiTests@72ad2558]" name="init" is-config="true" duration-ms="7307" started-at="2019-11-06T06:27:05Z" finished-at="2019-11-06T06:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="getUserInfo()[pri:0, instance:restApitests.ApiTests@72ad2558]" name="getUserInfo" duration-ms="2255" started-at="2019-11-06T06:27:13Z" finished-at="2019-11-06T06:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserInfo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:restApitests.ApiTests@72ad2558]" name="afterTest" is-config="true" duration-ms="1785" started-at="2019-11-06T06:27:15Z" finished-at="2019-11-06T06:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- restApitests.ApiTests -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
